@@ -12,6 +12,7 @@
 		5E7C691621C1AC1D00D260BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E7C691521C1AC1D00D260BC /* Assets.xcassets */; };
 		5E7C691921C1AC1D00D260BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E7C691721C1AC1D00D260BC /* LaunchScreen.storyboard */; };
 		5EC4800B21C43D8F0064E9C9 /* InternetDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC4800A21C43D8F0064E9C9 /* InternetDetailViewController.swift */; };
+		5EC4800D21C445A90064E9C9 /* InternetMasterTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC4800C21C445A90064E9C9 /* InternetMasterTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		5E7C691821C1AC1D00D260BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E7C691A21C1AC1D00D260BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EC4800A21C43D8F0064E9C9 /* InternetDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetDetailViewController.swift; sourceTree = "<group>"; };
+		5EC4800C21C445A90064E9C9 /* InternetMasterTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetMasterTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				5EC4800A21C43D8F0064E9C9 /* InternetDetailViewController.swift */,
+				5EC4800C21C445A90064E9C9 /* InternetMasterTableViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 			files = (
 				5EC4800B21C43D8F0064E9C9 /* InternetDetailViewController.swift in Sources */,
 				5E7C690F21C1AC1300D260BC /* AppDelegate.swift in Sources */,
+				5EC4800D21C445A90064E9C9 /* InternetMasterTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
