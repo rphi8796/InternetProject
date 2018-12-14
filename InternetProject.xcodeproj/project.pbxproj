@@ -13,6 +13,7 @@
 		5E7C691921C1AC1D00D260BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E7C691721C1AC1D00D260BC /* LaunchScreen.storyboard */; };
 		5EC4800B21C43D8F0064E9C9 /* InternetDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC4800A21C43D8F0064E9C9 /* InternetDetailViewController.swift */; };
 		5EC4800D21C445A90064E9C9 /* InternetMasterTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC4800C21C445A90064E9C9 /* InternetMasterTableViewController.swift */; };
+		5EC4800F21C450BA0064E9C9 /* Internet Screen Topics (1).pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5EC4800E21C450BA0064E9C9 /* Internet Screen Topics (1).pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5E7C691A21C1AC1D00D260BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5EC4800A21C43D8F0064E9C9 /* InternetDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetDetailViewController.swift; sourceTree = "<group>"; };
 		5EC4800C21C445A90064E9C9 /* InternetMasterTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InternetMasterTableViewController.swift; sourceTree = "<group>"; };
+		5EC4800E21C450BA0064E9C9 /* Internet Screen Topics (1).pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Internet Screen Topics (1).pdf"; path = "../../../../Downloads/Internet Screen Topics (1).pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		5E7C692021C1AC3400D260BC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				5EC4800E21C450BA0064E9C9 /* Internet Screen Topics (1).pdf */,
 				5E7C690E21C1AC1300D260BC /* AppDelegate.swift */,
 				5E7C691521C1AC1D00D260BC /* Assets.xcassets */,
 				5E7C691A21C1AC1D00D260BC /* Info.plist */,
@@ -160,6 +163,7 @@
 				5E7C691921C1AC1D00D260BC /* LaunchScreen.storyboard in Resources */,
 				5E7C691621C1AC1D00D260BC /* Assets.xcassets in Resources */,
 				5E7C691421C1AC1300D260BC /* Main.storyboard in Resources */,
+				5EC4800F21C450BA0064E9C9 /* Internet Screen Topics (1).pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
